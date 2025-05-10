@@ -1,0 +1,8 @@
+FOR SOFT BEARING BALANCERS
+
+NOTE: factors in the 180º phase shift
+
+
+RIGHT = RJ45 TAB DOWN
+
+LEFT   = RJ45 TAB UP
